@@ -3,7 +3,7 @@ const initParam = {
   renderMode: "auto",
   api: {
     //デプロイされたGASのエンドポイントを記載します。
-    endpoint: "https://script.google.com/macros/s/AKfycbzL8heihFgqI2sB-f85-4lUqk7VFjHPdcPzeheEoWndaAcBaWPa8KLHSR6aVdsRIlqcfw/exec",
+    endpoint: "https://script.google.com/a/macros/unwind-inc.co.jp/s/AKfycbzL8heihFgqI2sB-f85-4lUqk7VFjHPdcPzeheEoWndaAcBaWPa8KLHSR6aVdsRIlqcfw/exec",
     method: "GET",
     dataType: "jsonp",
     errorResponse: {
