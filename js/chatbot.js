@@ -13,7 +13,7 @@ const initParam = {
   bot: {
     wakeupText: null,
     botPhoto:
-      "img/sensorUMA.png",
+      "https://raw.githubusercontent.com/xxcharco/kadai05_api/main/img/sensorUMA.png",
     humanPhoto: null,
     widget: {
       sendLabel: "送信",
